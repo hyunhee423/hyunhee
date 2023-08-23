@@ -14,7 +14,7 @@
  
 <div align=center>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyuna423&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunhee423&show_icons=true&theme=radical)
 
 
 <h3>🛠Tech Stack🛠</h3>  
@@ -39,5 +39,5 @@
 <a href=""><img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://byul91oh.tistory.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a> <a href="https://www.instagram.com/hyun.h2/"><img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a> <a href="mailto:kimhyuna0423@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyuna423%2Fhyuna423&count_bg=%234A4D48&title_bg=%23AF6FD7&icon=furrynetwork.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%hyunhee423%hyunhee423&count_bg=%234A4D48&title_bg=%23AF6FD7&icon=furrynetwork.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
